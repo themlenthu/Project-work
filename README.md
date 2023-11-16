@@ -1,3 +1,3 @@
 # Project-work
-Added jupyter notebook files of the projects.<br>
-Added report of the descriptive answer evaluation project.
+Hi there,
+Please take a look at my works majorly in the field of ML, DL, CV.
